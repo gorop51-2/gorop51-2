@@ -8,10 +8,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gorop51)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rab.georgespesivtsev@gmail.com&su=from-github)
 
-
 ###
 
-<h3 align="left">👩‍💻 About me</h3>
+<h3 align="left">👩‍ About me</h3>
 
 ###
 
@@ -19,12 +18,32 @@
 
 ###
 
+<h3 align="left">💼 Work Experience</h3>
+
+###
+
+**Intern Analyst at Internal Audit Department** — APK AGROEKO, LLC
+
+*March 2026 — June 2026 (4 months)*
+
+- Performed data extraction, preprocessing and analysis from 1C:ERP system
+- Developed a universal external processing script to accelerate the process, while mastering the basic principles of working with the 1C platform
+- Engaged in data extraction and preparation for veterinary audit and P2P procurement audit
+- Strengthened big data analysis skills and refined Python application (pandas, numpy)
+- Implemented visualization through matplotlib and interactive graphs in plotly
+- Created structured reports using Quarto in VSCode
+- Developed teamwork and cross-department collaboration skills
+
+###
+
 <h3 align="left">⭐ My achievements</h3>
 
 -  **98/100 points on the Unified Government Exam in Computer Science,**
+
 <p>as well as 86 in specialized mathematics exam and 96 in Russian exam, for a total of 280 points out of 300;</p>
 
 - **Government scholarship at the University [![](https://img.icons8.com/?size=15&id=98Pzb3JNQAry&format=png&color=000000)](https://drive.google.com/file/d/1tgjGtHhQ01huIVjLd0a6kMyJnCkQpHaW/view?usp=sharing):**
+
 <p>I was published with articles about AI and similar topics in scientific journals.</p>
 
 ###
@@ -34,18 +53,31 @@
 ###
 
 <div align="left">
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+
   <img width="12" />
+
   <img src="icons/pandas-original-wordmark.jpg" height="40" alt="pandas logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-plain-wordmark.svg" height="40" alt="numpy logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="matplotlib logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+
   <img width="12" />
+
 </div>
 
 ###
@@ -55,18 +87,31 @@
 ###
 
 <div align="left">
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="p-sql logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="m-sql logo"  />
+
   <img width="12" />
+
   <img src="icons/excel.svg" height="40" alt="excel logo"  />
+
   <img width="12" />
+
   <img src="icons/word.svg" height="40" alt="word logo"  />
+
   <img width="12" />
+
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+
   <img width="12" />
+
 </div>
 
 ###
@@ -74,18 +119,25 @@
 <h3 align="left">📕 Some ML articles </h3>
 
 - [Fundamentals of linear regression](https://drive.google.com/file/d/1h4OIFVudWUAGjclfrFEs-4jOmYhtJpOs/view?usp=sharing)
+
 - [Regularization in ML](https://drive.google.com/file/d/1c1fg1wh6vwYQNdl7jne11o1v8nkoP3cz/view?usp=sharing)
 
 ### 💻 Additional education
 
 | Course                                                          | Date              | Docs |
+
 | ----------------------------------------------------------------| :---------------: | :--: |
+
 | [practicum.yandex/DS specialist](https://practicum.yandex.ru/data-scientist)                      | 12/2022 - 07/2023 | [![](https://img.icons8.com/?size=15&id=98Pzb3JNQAry&format=png&color=000000)](https://drive.google.com/file/d/1D4aA7iWT4cP5keR1YqlWcvSboyBBUpVi/view?usp=sharing)|
+
 | [practicum.yandex/Mathematics for DA](https://practicum.yandex.ru/math-for-da-ds/)                 | 07/2025 - xx/2025 | — |
 
 ### 🗣 Languages
 
 | Flag | Level             |
+
 | :--: | :---------------: |
+
 | ![RU](https://img.icons8.com/?size=25&id=15528&format=png&color=000000)| **C2** |
+
 | ![EN](https://img.icons8.com/?size=25&id=15534&format=png&color=000000)| **B1** |
