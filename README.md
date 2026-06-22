@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm a newbie data scientist and on my third year at the technical university called «VGLTU» in Russia, Voronezh, studying «Information Systems and Technology» specialization. I finished the "Data Science Specialist" course from Yandex and am now taking "Mathematics for Data Analysis" course. I know Python really well and have used libraries like Pandas, Numpy, Matplotlib and Scikit-learn. I also know SQL, as I learned it from online courses and my university. I have some experience with C++ too. In addition to the projects made for the DS course, which you can see in my profile, I've built a few Telegram bots and worked on a project scraping russian patent documents to create a database using their information to train a model.</p>
+<p align="left">I'm a newbie data scientist and on my fourth year at the technical university called «VGLTU» in Russia, Voronezh, studying «Information Systems and Technology» specialization. In 2026 completed an internship at "АГРОЭКО" as an analyst at IAD, where he was involved in uploading and preparing data from 1C:ERP for veterinary audit and P2P procurement audit. Before I finished the "Data Science Specialist" course from Yandex and am now taking "Mathematics for Data Analysis" course. I know Python really well and have used libraries like Pandas, Numpy, Matplotlib and Scikit-learn. I also know SQL, as I learned it from online courses and my university. I have some experience with C++ too. In addition to the projects made for the DS course, which you can see in my profile, I've built a few Telegram bots and worked on a project scraping russian patent documents to create a database using their information to train a model.</p>
 
 ###
 
