@@ -119,25 +119,18 @@
 <h3 align="left">📕 Some ML articles </h3>
 
 - [Fundamentals of linear regression](https://drive.google.com/file/d/1h4OIFVudWUAGjclfrFEs-4jOmYhtJpOs/view?usp=sharing)
-
 - [Regularization in ML](https://drive.google.com/file/d/1c1fg1wh6vwYQNdl7jne11o1v8nkoP3cz/view?usp=sharing)
 
 ### 💻 Additional education
 
 | Course                                                          | Date              | Docs |
-
 | ----------------------------------------------------------------| :---------------: | :--: |
-
 | [practicum.yandex/DS specialist](https://practicum.yandex.ru/data-scientist)                      | 12/2022 - 07/2023 | [![](https://img.icons8.com/?size=15&id=98Pzb3JNQAry&format=png&color=000000)](https://drive.google.com/file/d/1D4aA7iWT4cP5keR1YqlWcvSboyBBUpVi/view?usp=sharing)|
-
 | [practicum.yandex/Mathematics for DA](https://practicum.yandex.ru/math-for-da-ds/)                 | 07/2025 - xx/2025 | — |
 
 ### 🗣 Languages
 
 | Flag | Level             |
-
 | :--: | :---------------: |
-
 | ![RU](https://img.icons8.com/?size=25&id=15528&format=png&color=000000)| **C2** |
-
 | ![EN](https://img.icons8.com/?size=25&id=15534&format=png&color=000000)| **B1** |
